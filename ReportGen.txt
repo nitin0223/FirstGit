@@ -1,3 +1,7 @@
 My First program for Report generation
 
 All Scan Statistics
+
+Scan Overhead time
+BG Noise
+ECL RSD
