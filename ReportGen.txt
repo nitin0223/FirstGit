@@ -5,3 +5,4 @@ All Scan Statistics
 Scan Overhead time
 BG Noise
 ECL RSD
+Peak memory Utilization
